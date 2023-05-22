@@ -10,9 +10,9 @@ This is a python project that is meant to be a companion app to Konami (DeadEye)
 
 | OS | Setup |
 |---:|-------|
-|Windows| Run `Hop Log Analyzer.exe |
+|Windows| Run `Hop Log Analyzer.exe` |
 |Mac| Run `Hop Log Analyzer.app` |
-|Linux| `python3 "path/to/Hop Log Analyzer.py" |
+|Linux| `python3 "path/to/Hop Log Analyzer.py"` |
 
 3. Drag and drop the hop output text file into the app window.
 4. Profit.
